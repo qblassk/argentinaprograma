@@ -1,5 +1,6 @@
-const tempFahrenheit = 50;
+function tempCelsius(tempFahrenheit) {
+   return (tempFahrenheit - 32) * (5 / 9);
+}
 
-const tempCelsius = (tempFahrenheit - 32) * (5 / 9);
-
-console.log(tempCelsius);
+console.log(tempCelsius(50));
+console.log(tempCelsius(75));
