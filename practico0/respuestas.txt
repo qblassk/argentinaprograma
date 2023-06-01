@@ -1,0 +1,18 @@
+# Area Rectangulo
+15
+66.25
+
+# Conversion Grados
+10
+23.88888888888889
+
+# Multiplicacion
+204
+
+# Promedio3
+7
+-4.333333333333333
+0.2666666666666666
+
+# Resta
+8
